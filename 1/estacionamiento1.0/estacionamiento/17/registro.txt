@@ -1,0 +1,14 @@
+{"Usuario":"9898","Contrase\u00f1a":"lkl"}
+{"Usuario":"","Contrase\u00f1a":""}
+{"Usuario":"878787","Contrase\u00f1a":"iuiu"}
+{"Usuario":"878787","Contrase\u00f1a":""}
+{"Usuario":"","Contrase\u00f1a":""}
+{"Usuario":"Bruno","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"1234"}
+{"Usuario":"mauri_322","Clave":"134"}
+{"Usuario":"mauri_322","Clave":"1324"}

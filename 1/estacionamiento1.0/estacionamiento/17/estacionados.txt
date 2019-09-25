@@ -1,0 +1,3 @@
+{"Patente":"eir 338","Hora":"20:27"}
+{"Patente":"eir338","Hora":"21:10"}
+{"Patente":"eir338","Hora":"21:50"}
